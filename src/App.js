@@ -3,7 +3,7 @@ import Banner from './componentes/Banner/Banner';
 import Formulario from './componentes/Formulario';
 import { useState } from 'react';
 import Time from './componentes/Time';
-import Rodape from './Footer';
+import Rodape from './componentes/Footer/index';
 
 
 function App() {
